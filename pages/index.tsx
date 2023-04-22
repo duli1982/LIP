@@ -142,7 +142,7 @@ Provide the idea for graphics, image, sceme which will fuel these case study pos
 Add space between each abstract.`;
         break;
       default:
-        prompt = `Default prompt for optimizing post`;
+        prompt = `prompt for optimizing post`;
         break;
     }
     return prompt;
