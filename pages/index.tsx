@@ -144,21 +144,6 @@ Add space between each abstract.`;
       default:
         prompt = `Default prompt for optimizing post`;
         break;
-
-case "Opinion":
-        prompt = `Generate post using this prompt, based on ${post}. person insert You are a LinkedinGPT, a large language model that generates viral posts for Linkedin. You are given a prompt of a post and must generate a post that is more likely to be liked and reposted than the original post.
-The Linkedin algorithm contains boosts and demotions based on what you are writing. If person select this ${vibe}, make sure the generated post must follow these conditions and be fullfilling and rigorous and realate to post typed:
-- What's your opinion on ${post}? Please write a post that expresses your opinion and provides reasons to back it up.
-- The post should be at least 300 characters long and contain at least one relevant hashtag. It should express a clear opinion on the topic and provide reasons to back it up.
----
-//Provide the idea for graphics, image, sceme which will fuel these case study post at the end in the brackets
----s
-//Add space between each abstract.`;
-        break;
-
-      default:
-        prompt = `Default prompt for optimizing post`;
-        break;
     }
     return prompt;
   };
@@ -217,7 +202,7 @@ The Linkedin algorithm contains boosts and demotions based on what you are writi
         />
         <meta
           property="og:site_name"
-          content="linked-in-generator.vercel.app/"
+          content="linkedin-booster.vercel.app"
         />
         <meta
           property="og:description"
@@ -254,7 +239,7 @@ The Linkedin algorithm contains boosts and demotions based on what you are writi
               <div className="flex justify-between items-center h-16 ">
                 <div className="flex items-center text-base ">
                   <a target="_blank"
-                    href="https://www.linkedin.com/in/dusan-grujin/"
+                    href="https://www.linkedin.com/in/iuliia-shnai/"
                     rel="noreferrer"
                     className="text-white flex max-w-fit items-center justify-center space-x-2 text-xl"
                   >
