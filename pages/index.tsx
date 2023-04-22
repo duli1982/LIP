@@ -157,7 +157,7 @@ The Linkedin algorithm contains boosts and demotions based on what you are writi
         break;
 
       default:
-        prompt = `Default prompt for optimizing post`;
+        prompt = `prompt for optimizing post`;
         break;
     }
     return prompt;
