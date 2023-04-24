@@ -208,12 +208,12 @@ The Linkedin algorithm contains boosts and demotions based on what you are writi
     <>
       <Head>
 
-        <title>LinkedIn Post Generator</title>
+        <title>LinkedIn Post Help</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="👩‍💼" />
         <meta
           name="description"
-          content="See how your post performs against Linkedin alghoritm and generate better post with AI."
+          content="See how your post performs against Linkedin alghoritm and generate better post"
         />
         <meta
           property="og:site_name"
@@ -221,7 +221,7 @@ The Linkedin algorithm contains boosts and demotions based on what you are writi
         />
         <meta
           property="og:description"
-          content="See how your post performs against Linkedin alghoritm and generate better post with AI."
+          content="See how your post performs against Linkedin alghoritm and generate better post"
         />
         <meta
           property="og:title"
