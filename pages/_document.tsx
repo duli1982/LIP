@@ -16,7 +16,7 @@ export default function Document() {
           strategy="afterInteractive"
           dangerouslySetInnerHTML={{
             __html:
-            `kofiWidgetOverlay.draw('shnai', {
+            `kofiWidgetOverlay.draw('dulisa', {
               'type': 'floating-chat',
               'floating-chat.donateButton.text':'',
               'floating-chat.donateButton.background-color': '#0E66C2',
