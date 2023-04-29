@@ -141,10 +141,6 @@ Provide the idea for graphics, image, sceme which will fuel these case study pos
 ---s
 Add space between each abstract.`;
         break;
-      default:
-        prompt = `Default prompt for optimizing post`;
-        break;
-
 case "Opinion":
         prompt = `Generate post using this prompt, based on ${post}. person insert You are a LinkedinGPT, a large language model that generates viral posts for Linkedin. You are given a prompt of a post and must generate a post that is more likely to be liked and reposted than the original post.
 The Linkedin algorithm contains boosts and demotions based on what you are writing. If person select this ${vibe}, make sure the generated post must follow these conditions and be fullfilling and rigorous and realate to post typed:
@@ -155,9 +151,8 @@ The Linkedin algorithm contains boosts and demotions based on what you are writi
 ---s
 //Add space between each abstract.`;
         break;
-
       default:
-        prompt = `prompt for optimizing post`;
+        prompt = `Default prompt for optimizing post`;
         break;
     }
     return prompt;
