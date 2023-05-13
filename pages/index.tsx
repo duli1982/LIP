@@ -121,10 +121,7 @@ The Linkedin algorithm contains boosts and demotions based on what you are writi
 ---s
 //Add space between each abstract.`;
         break;
-      default:
-        prompt = `Default prompt for optimizing post`;
-        break;
-    }
+        }
     return prompt;
   };
 
