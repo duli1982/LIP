@@ -170,20 +170,20 @@ The Linkedin algorithm contains boosts and demotions based on what you are writi
     <>
       <Head>
 
-        <title>LinkedIn Post Help</title>
+        <title>LinkedIn Post Helpy</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="👩‍💼" />
         <meta
           name="description"
-          content="See how your post performs against Linkedin alghoritm and generate better post"
+          content="See how your post performs against Linkedin"
         />
         <meta
           property="og:site_name"
-          content="linked-in-generator.vercel.app/"
+          content="lip-indol.vercel.app/"
         />
         <meta
           property="og:description"
-          content="See how your post performs against Linkedin alghoritm and generate better post"
+          content="See how your post performs against Linkedin"
         />
         <meta
           property="og:title"
