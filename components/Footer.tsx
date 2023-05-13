@@ -30,7 +30,7 @@ export default function Footer() {
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
         <Link
-          href="https://twitter.com/shnai0"
+          href="https://twitter.com/DusanGrujin"
           className="group"
           aria-label="@mfts0 on Twitter"
         >
@@ -43,7 +43,7 @@ export default function Footer() {
         </Link>
 
         <Link
-          href="https://github.com/shnai0/linkedin-booster"
+          href="https://github.com/duli1982/LIP"
           className="group"
           aria-label="@shnai0 on GitHub"
         >
@@ -56,7 +56,7 @@ export default function Footer() {
         </Link>
 
         <Link
-          href="https://www.linkedin.com/in/iuliia-shnai/"
+          href="https://www.linkedin.com/in/dusan-grujin/"
           className="group"
           aria-label="@your-linkedin-username on LinkedIn"
         >
